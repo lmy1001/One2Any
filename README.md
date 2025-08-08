@@ -6,9 +6,11 @@ Mengya Liu<sup>1</sup>, Siyuan Li<sup>1</sup>, Ajad Chhatkuli<sup>2</sup>, Prune
 <p><sup>1</sup>ETH Zurich, &nbsp;&nbsp;<sup>2</sup>INSAIT, Sofia University “St. Kliment Ohridski”, &nbsp;&nbsp;<sup>3</sup>Google, &nbsp;&nbsp;<sup>4</sup>TUM  &nbsp;&nbsp;
 
 [Paper](https://arxiv.org/pdf/2505.04109)
-</div>
 
 ![Teaser](./doc/teaser.png)
+</div>
+
+
 
 
 ### Environment
