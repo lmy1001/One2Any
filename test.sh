@@ -1,0 +1,1 @@
+ python evaluate.py --datatset lmo_dataset --data_path ./test_data/ --data_val test --ckpt_dir ./pretrained_models/epoch_18_model.ckpt
